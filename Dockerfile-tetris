@@ -1,0 +1,8 @@
+# Dockerfile.tetris
+FROM nginxinc/nginx-unprivileged:alpine
+
+COPY javascript-mini-game/tetris/ /usr/share/nginx/html/
+
+COPY javascript-mini-game/tetris/tetris.nginx.conf /etc/nginx/conf.d/default.conf
+
+EXPOSE 8080/tcp

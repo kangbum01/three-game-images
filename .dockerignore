@@ -1,0 +1,6 @@
+.git
+.github
+*.log
+*.md
+node_modules
+Dockerfile*
