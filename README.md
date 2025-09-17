@@ -34,5 +34,5 @@ http://localhost:8082/snake.html
 
 ---
 
-[ 게임 출처 ]:
+게임 출처:
 https://github.com/yjyoon-dev/javascript-mini-game
