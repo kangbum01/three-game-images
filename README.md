@@ -32,5 +32,7 @@ docker run -d -p 8082:8080 --name game-snake kangbum01/game-snake:latest
 브라우저에서 접속:
 http://localhost:8082/snake.html
 
-[ 게임 출처 ]
+---
+
+[ 게임 출처 ]:
 https://github.com/yjyoon-dev/javascript-mini-game
