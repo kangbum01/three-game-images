@@ -15,7 +15,6 @@
 ## 🚀 실행 방법
 
 ### 1. 2048
-```bash
 docker run -d -p 8080:8080 --name game-2048 kangbum01/game-2048:latest
 
 브라우저에서 접속:
